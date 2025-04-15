@@ -1,0 +1,8 @@
+doc
+dist
+worker
+node_modules
+package-lock.json
+wrangler.toml
+.development
+.env*
